@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="676f8d4f-9bfc-4e88-b27b-d85daf78a9a0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Yfcy9i0GyWV1ivt1Q9I2gDPXpM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Dinesh\Documents\jupyter_projects\ineuron\webscrappper_text-master\HerokuFlaskDemo-master\firstFlask" />
+      <recent name="C:\Users\Dinesh\Documents\jupyter_projects\ineuron\webscrappper_text-master\HerokuFlaskDemo-master\firstFlask\templates" />
+      <recent name="C:\Users\Dinesh\Documents\jupyter_projects\ineuron\webscrappper_text-master\HerokuFlaskDemo-master\firstFlask\static" />
+      <recent name="C:\Users\Dinesh\Documents\jupyter_projects\ineuron\webscrappper_text-master\HerokuFlaskDemo-master\firstFlask\static\css" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.clientApp">
+    <configuration name="Train_cnn_classifier" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="firstFlask" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\Dinesh\Documents\jupyter_projects\ineuron\webscrappper_text-master\HerokuFlaskDemo-master\firstFlask\Train_cnn_classifier.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="firstFlask" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="clientApp" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="firstFlask" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/clientApp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.clientApp" />
+        <item itemvalue="Python.Train_cnn_classifier" />
+        <item itemvalue="Python.app" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="676f8d4f-9bfc-4e88-b27b-d85daf78a9a0" name="Default Changelist" comment="" />
+      <created>1583337340235</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583337340235</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="71" key="#Inspections" timestamp="1583338152971">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1583338152971" />
+    <state x="532" y="215" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585153853049">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="532" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1585153853049" />
+    <state x="548" y="154" key="FileChooserDialogImpl" timestamp="1584711688506">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1584711688506" />
+    <state width="1515" height="351" key="GridCell.Tab.0.bottom" timestamp="1585157438568">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="351" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585157438568" />
+    <state width="1515" height="351" key="GridCell.Tab.0.center" timestamp="1585157438567">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="351" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1585157438567" />
+    <state width="1515" height="351" key="GridCell.Tab.0.left" timestamp="1585157438567">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="351" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1585157438567" />
+    <state width="1515" height="351" key="GridCell.Tab.0.right" timestamp="1585157438567">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="351" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1585157438567" />
+    <state x="277" y="55" key="SettingsEditor" timestamp="1583338301311">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1583338301311" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1584631442826">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1584631442826" />
+    <state x="462" y="144" width="693" height="536" key="find.popup" timestamp="1585152186078">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="462" y="144" width="693" height="536" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1585152186078" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/clientApp.py</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
